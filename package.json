@@ -1,0 +1,22 @@
+{
+  "name": "onboarding",
+  "version": "0.0.1",
+  "description": "This is sample onboarding network for deployment test.",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Robert Buchalski",
+  "email": "robert.buchalski@capgemini.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "composer-admin": "latest",
+    "composer-client": "latest",
+    "composer-common": "latest",
+    "composer-connector-embedded": "latest",
+    "chai": "latest",
+    "eslint": "latest",
+    "istanbul": "latest",
+    "mkdirp": "latest",
+    "mocha": "latest"
+  }
+}
